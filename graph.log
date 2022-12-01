@@ -1,0 +1,27 @@
+* de1ffd8 two paragraphs and h2
+*   82e3b2b fix resolve
+|\  
+| *   de296f1 Add season with month
+| |\  
+* | \   d79232b Add season with month
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 39c1602 add seasons
+* | e0a68e7 add seasons
+|/  
+*   885e7d9 resolviendo conflicto entre ramas mai/html
+|\  
+| * 7450501 agregando index.js al index.html
+* | d08cdeb agregando style.css al index.html
+* | 83530ea Create license.txt
+* |   b2ea7c0 Merge branch 'js'
+|\ \  
+| * | 6b26db8 creando js
+* | | b1543f6 creando style.css
+| |/  
+|/|   
+* | 0235e46 creando index html
+|/  
+* e2c5289 primer commit

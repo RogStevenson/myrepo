@@ -1,0 +1,94 @@
+commit de1ffd8a2db52eb598b41b79e57df9a7d6682414
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 21:49:43 2022 -0500
+
+    two paragraphs and h2
+
+commit 82e3b2bf03e4232b5cef2a63d018083251ce090e
+Merge: d79232b de296f1
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 21:47:05 2022 -0500
+
+    fix resolve
+
+commit d79232b654dc82a0a6430edfa85bcb17b972b078
+Merge: e0a68e7 39c1602
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 21:29:24 2022 -0500
+
+    Add season with month
+
+commit de296f17e411fb449388fb3a7206f5b19f37751f
+Merge: e0a68e7 39c1602
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 21:29:24 2022 -0500
+
+    Add season with month
+
+commit e0a68e7b2a8eff7de0b86bb1cc5a05f491462195
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 20:53:15 2022 -0500
+
+    add seasons
+
+commit 39c16021c83e66ff3019c04ece0b2c8197b27dd9
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 20:53:15 2022 -0500
+
+    add seasons
+
+commit 885e7d950216e0a7a8c33c8972d31eac3a71875d
+Merge: d08cdeb 7450501
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 20:41:35 2022 -0500
+
+    resolviendo conflicto entre ramas mai/html
+
+commit 745050128006c1be934e428fa8e060b9559fc403
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 20:31:00 2022 -0500
+
+    agregando index.js al index.html
+
+commit d08cdeb897d8717639632258b9708abbe2be3f25
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 20:28:11 2022 -0500
+
+    agregando style.css al index.html
+
+commit 83530ea0dec0c590da9ff52e0760f16cb1f58536
+Author: RogStevenson <113068266+RogStevenson@users.noreply.github.com>
+Date:   Wed Nov 30 20:15:52 2022 -0500
+
+    Create license.txt
+
+commit b2ea7c09c69a69865d7f064e7fd4f4aadf2654ba
+Merge: b1543f6 6b26db8
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 20:13:59 2022 -0500
+
+    Merge branch 'js'
+
+commit 6b26db8ef6ffc3cd27167d28d98dcbac1914fa27
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 20:10:21 2022 -0500
+
+    creando js
+
+commit b1543f6a14ec8039310cc7166c47f27ecb19fe46
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 19:58:30 2022 -0500
+
+    creando style.css
+
+commit 0235e46a42821d7de810b138a1c364a1542ae9c4
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 19:54:32 2022 -0500
+
+    creando index html
+
+commit e2c52894ece05d5ea4f955eb293fe47d1a62767a
+Author: Eric Stevenson <rge.stevenson@gmail.com>
+Date:   Wed Nov 30 19:50:35 2022 -0500
+
+    primer commit
